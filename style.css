@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+   
+    padding: 10px;
+    
+}
+
+.nav-title{
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px;
+    background-color: #f8bdb5;
+    color: white;
+   
+
+}
+
+.nav-pages{
+    
+    text-decoration: none;
+    color: #a9802a;
+}
+
+a{
+    margin-right: 130px;
+
+}
