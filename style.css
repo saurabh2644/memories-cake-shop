@@ -134,3 +134,24 @@ h1{
     cursor: pointer;
     margin: 20px;
 }
+
+
+.footer{
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    background-color: #f8bdb5;
+
+}
+
+.footer-img{
+    height: 200px;
+}
+
+.footer-text{
+    margin-top: 70px;
+    margin-right: 40px;
+    font-size: 24px;
+    font-family: "Bona Nova SC";
+    font-weight: 600;
+}
