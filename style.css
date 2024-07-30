@@ -29,3 +29,52 @@ a{
     margin-right: 130px;
 
 }
+
+.div-content{ 
+
+    height: 240px;
+    width: auto;
+    display: flex;
+    background-color: #edf6f5;
+    padding: 20px;
+}
+
+.div-descrip{
+    padding: 20px;
+    text-align: start;
+    font-size: 20px;
+    margin: 20px 46px ;
+    font-family: "sevillana";
+    font-weight: 500;
+
+}
+
+.div-title{
+    text-align: center;
+    color: #a9802a;
+    font-size: 24px;
+    font-family: "Bona Nova SC";
+    font-weight: 600;
+}
+
+.div-img{
+    height: 200px;
+    margin-left: 130px;
+}
+
+.div-btn{
+    font-size: 18px;
+    font-family: "Bona Nova SC";
+    font-weight: 600;
+    background-color: #d9a9d1;
+    border-radius: 24px;
+    padding: 2px;
+    margin-left: 300px;
+    cursor: pointer;
+
+}
+
+.div-btn:hover{
+    font-size: 20px;
+    padding: 4px;
+}
