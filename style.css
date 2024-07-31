@@ -60,15 +60,17 @@ a{
 .div-img{
     height: 200px;
     margin-left: 130px;
+    
 }
 
 .div-btn{
+    width: 150px;
     font-size: 18px;
     font-family: "Bona Nova SC";
     font-weight: 600;
     background-color: #d9a9d1;
     border-radius: 24px;
-    padding: 2px;
+    padding: 7px;
     margin-left: 300px;
     cursor: pointer;
 
@@ -155,3 +157,78 @@ h1{
     font-family: "Bona Nova SC";
     font-weight: 600;
 }
+
+.main-div{
+    height: 500px;
+    margin:80px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-cards{
+    height: 200px;
+
+}
+
+.title-div{
+    text-align: center;
+}
+
+.title{
+    font-size: 34px;
+    font-family: "Bona Nova SC";
+    font-weight: 600;
+    color: #a9802a;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+
+.title-text{
+    color: #53585e;
+}
+
+.main-cards
+{
+    text-align: center;
+}
+
+.cards-title{
+     color: #a9802a;
+     font-size: 16px;
+     font-family: "Bona Nova SC";
+     font-weight: 600;
+     margin-bottom: 20px;
+
+}
+
+.cards-text{
+    color: #53585e;
+    margin-bottom: 140px;
+}
+
+.main-cards-img{
+    height: 380px;
+    width: 510px;
+}
+
+.know-more-button{
+width: 130px;    
+cursor: pointer;
+color:#a9802a;
+padding: 7px;
+font-size: 16px;
+background-color: #b2ddd3;
+border-radius: 25px;
+margin-top: 30px ;
+margin-left: 40px;
+}
+
+.know-more-button:hover{
+    background-color: #a9802a;
+    color: white;
+
+}
+
+
+
